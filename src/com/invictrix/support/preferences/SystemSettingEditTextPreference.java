@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.dirtyunicorns.support.preferences;
+package com.invictrix.support.preferences;
 
 import android.content.Context;
 import android.support.v7.preference.EditTextPreference;
